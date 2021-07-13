@@ -1,0 +1,8 @@
+{
+    "/api/*":{
+        "target" : "https://evocative-nexus-319204.uc.r.appspot.com",
+        "secure": false,
+        "logLevel":"debug",
+        "changeOrigin":true
+    }
+}
